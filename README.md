@@ -34,7 +34,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+   https://www.carhartt-wip.com/nl-nl?gad_source=1&gad_campaignid=11480277021&gbraid=0AAAAADxdp8btdg-zTrhxXcV649QEN6ijA&gclid=CjwKCAiA2svIBhB-EiwARWDPjleFFwtt8APmI2J5G3n3WR-_klE5Mu2v5_J66oS3x3xLCJYSVb9iFxoCrlMQAvD_BwE
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
