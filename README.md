@@ -34,14 +34,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-   https://www.carhartt-wip.com/nl-nl?gad_source=1&gad_campaignid=11480277021&gbraid=0AAAAADxdp8btdg-zTrhxXcV649QEN6ijA&gclid=CjwKCAiA2svIBhB-EiwARWDPjleFFwtt8APmI2J5G3n3WR-_klE5Mu2v5_J66oS3x3xLCJYSVb9iFxoCrlMQAvD_BwE
+  https://www.walibi.nl/brightnights/nl
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
+  Homepagina  
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
+  Koop je tickets 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
  
 </details>
